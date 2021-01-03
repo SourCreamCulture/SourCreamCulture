@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **knowledge**
 
-- 👨‍💻 Website [Website](https://sourcreambot.xyz)
+- 👨‍💻 Website [here](https://sourcreambot.xyz)
 
 - 🥅 2020 Goals **learn many more programming languages**
 
