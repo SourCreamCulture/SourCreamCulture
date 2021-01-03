@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **node.js**
 
-- 👯 I’m looking to collaborate on [A discord bot](https://discord.com/api/oauth2/authorize?client_id=773238645967814657&permissions=8&scope=bot)
+- 👯 I’m looking to collaborate on [a discord bot](https://discord.com/api/oauth2/authorize?client_id=773238645967814657&permissions=8&scope=bot)
 
 - 🤝 I’m looking for help with **knowledge**
 
