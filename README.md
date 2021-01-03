@@ -1,4 +1,4 @@
-### Hi there 👋
+### Heyyy 👋
 
 - 🔭 I’m currently working on a public discord bot SourCream's Global
 - 🌱 I’m currently learning node.js
