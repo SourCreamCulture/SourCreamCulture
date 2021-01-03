@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning node.js
 - 🤔 I’m looking for help with knowledge
 - 💬 Ask me about me lol
+- 🥅 2020 Goals: learn many more programming languages
 - 📫 How to reach me: dallinheath@gmail.com
 - Website: https://sourcreambot.xyz
 - ⚡ Fun fact: I enjoy software development and am always looking to learn more.
