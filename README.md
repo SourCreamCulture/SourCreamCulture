@@ -2,10 +2,10 @@
 
 - 🔭 I’m currently working on a public discord bot SourCream's Global
 - 🌱 I’m currently learning node.js
-- 👯 I’m looking to collaborate on nothing atm
-- 🤔 I’m looking for help with nothing atm
+- 🤔 I’m looking for help with knowledge
 - 💬 Ask me about me lol
 - 📫 How to reach me: dallinheath@gmail.com
+- Website: https://sourcreambot.xyz
 - ⚡ Fun fact: I enjoy software development and am always looking to learn more.
 
 <!--
