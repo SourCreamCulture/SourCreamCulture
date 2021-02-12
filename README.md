@@ -13,7 +13,7 @@
 
 - 👨‍💻 Website [here](https://sourcreambot.xyz)
 
-- 🥅 2020 Goals **learn many more programming languages**
+- 🥅 2021 Goals **learn many more programming languages**
 
 - 💬 Ask me about **me lol**
 
