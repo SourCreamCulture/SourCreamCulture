@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sourcreamculture&label=Profile%20views&color=0e75b6&style=flat" alt="sourcreamculture" /> </p>
 
-- 🔭 I’m currently working on [a public discord bot SourCream's Global](https://discord.com/api/oauth2/authorize?client_id=773238645967814657&permissions=8&scope=bot)
+- 🔭 I’m currently working on [a public discord bot Tomorrow Bot](https://discord.com/api/oauth2/authorize?client_id=773238645967814657&permissions=8&scope=bot)
 
-- 🌱 I’m currently learning **node.js**
+- 🌱 I’m currently learning **react.js**
 
 - 👯 I’m looking to collaborate on [a discord bot](https://discord.com/api/oauth2/authorize?client_id=773238645967814657&permissions=8&scope=bot)
 
@@ -13,7 +13,7 @@
 
 - 👨‍💻 Website [here](https://sourcreambot.xyz)
 
-- 🥅 2021 Goals **learn many more programming languages**
+- 🥅 2021 Goals **learn many more js frameworks**
 
 - 💬 Ask me about **me lol**
 
