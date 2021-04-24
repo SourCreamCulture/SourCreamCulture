@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **knowledge**
 
-- 👨‍💻 Website [here](https://sourcreambot.xyz)
+- 👨‍💻 Website [here](https://blandy.xyz)
 
 - 🥅 2021 Goals **learn many more js frameworks**
 
