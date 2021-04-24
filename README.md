@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sourcreamculture&label=Profile%20views&color=0e75b6&style=flat" alt="sourcreamculture" /> </p>
 
-- 🔭 I’m currently working on [a public discord bot Tomorrow Bot](https://discord.com/api/oauth2/authorize?client_id=773238645967814657&permissions=8&scope=bot)
+- 🔭 I’m currently working on a discord music bot called jukebox soon to be renamed to dogebeatz!
 
 - 🌱 I’m currently learning **react.js**
 
