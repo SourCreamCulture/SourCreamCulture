@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sourcreamculture&label=Profile%20views&color=0e75b6&style=flat" alt="sourcreamculture" /> </p>
 
-- 🔭 I’m currently working on a discord/dogehouse music bot called jukebox soon to be renamed to dogebeatz!
+- 🔭 I’m currently working on a dogehouse music bot called dogebeatz!
 
 - 🌱 I’m currently learning **react.js**
 
