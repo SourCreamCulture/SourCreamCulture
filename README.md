@@ -22,7 +22,7 @@
 
 - 💬 Ask me about **me lol**
 
-- 📫 How to reach me **dallinheath@gmail.com**
+- 📫 How to reach me **dallinheath@gmail.com** or **SourCream#4448** on Discord!
 
 - ⚡ Fun fact **I enjoy software development and am always looking to learn more.**
 
