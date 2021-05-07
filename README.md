@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sourcreamculture&label=Profile%20views&color=0e75b6&style=flat" alt="sourcreamculture" /> </p>
 
-<a href="https://dogehouse.tv/u/Flux">
+<a href="https://dogehouse.tv/u/SourCream">
   <img align="left" alt="Isaiah Hamilton | dogehouse" width="100px" src="https://raw.githubusercontent.com/benawad/dogehouse/staging/.redesign-assets/dogehouse_logo.svg" />
 </a>
 <br>
