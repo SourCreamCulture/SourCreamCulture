@@ -7,6 +7,7 @@
   <img align="left" alt="Isaiah Hamilton | dogehouse" width="100px" src="https://raw.githubusercontent.com/benawad/dogehouse/staging/.redesign-assets/dogehouse_logo.svg" />
 </a>
 <br>
+
 - 🔭 I’m currently working on a dogehouse music bot called dogebeatz!
 
 - 🌱 I’m currently learning **react.js**
