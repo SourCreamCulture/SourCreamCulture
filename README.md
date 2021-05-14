@@ -3,9 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sourcreamculture&label=Profile%20views&color=0e75b6&style=flat" alt="sourcreamculture" /> </p>
 
-<a href="https://dogehouse.tv/u/SourCream">
-  <img align="left" alt="Dallin Bland | dogehouse" width="100px" src="https://raw.githubusercontent.com/benawad/dogehouse/staging/.redesign-assets/dogehouse_logo.svg" />
-</a>
 <br>
 
 - 🔭 I’m currently working on a dogehouse music bot called dogebeatz!
@@ -30,6 +27,9 @@
 <p align="left">
 <a href="https://instagram.com/dallin_hb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="dallin_hb" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/dallinheath" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="dallinheath" height="30" width="40" /></a>
+  <a href="https://dogehouse.tv/u/SourCream">
+  <img align="left" alt="Dallin Bland | dogehouse" width="100px" src="https://raw.githubusercontent.com/benawad/dogehouse/staging/.redesign-assets/dogehouse_logo.svg" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
