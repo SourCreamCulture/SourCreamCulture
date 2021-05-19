@@ -9,15 +9,15 @@
 
 - 🌱 I’m currently learning **react.js**
 
-- 👯 I’m looking to collaborate on [a discord bot](https://discord.com/api/oauth2/authorize?client_id=773238645967814657&permissions=8&scope=bot)
+- 👯 I’m looking to collaborate on [a dogehouse bot](https://dogehouse.tv/u/dogebeatz)
 
 - 🤝 I’m looking for help with **knowledge**
 
 - 👨‍💻 Website [here](https://blandy.xyz)
 
-- 🥅 2021 Goals **learn many more js frameworks**
+- 🥅 2021 Goals **become more proficient with nextjs**
 
-- 💬 Ask me about **me lol**
+- 💬 Ask me about **how I became a developer**
 
 - 📫 How to reach me **dallinheath@gmail.com** or **SourCream#4448** on Discord!
 
