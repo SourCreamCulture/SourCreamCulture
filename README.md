@@ -15,7 +15,7 @@
 
 - 👨‍💻 Website [here](https://blandy.xyz)
 
-- 🥅 2021 Goals **become more proficient with nextjs**
+- 🥅 2022 Goals **become more proficient with nextjs**
 
 - 💬 Ask me about **how I became a developer**
 
