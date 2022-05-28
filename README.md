@@ -5,11 +5,11 @@
 
 <br>
 
-- 🔭 I’m currently working on a dogehouse music bot called dogebeatz!
+- 🔭 I’m currently working on learning web3 development stuff!
 
 - 🌱 I’m currently learning **react.js**
 
-- 👯 I’m looking to collaborate on [a dogehouse bot](https://dogehouse.tv/u/dogebeatz)
+- 👯 I’m looking to collaborate on learning web3 stuff
 
 - 🤝 I’m looking for help with **knowledge**
 
