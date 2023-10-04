@@ -5,17 +5,17 @@
 
 <br>
 
-- 🔭 I’m currently working on learning web3 development stuff!
+- 🔭 I’m currently working on an ios app!
 
 - 🌱 I’m currently learning **react.js**
 
-- 👯 I’m looking to collaborate on learning web3 stuff
+- 👯 I’m looking to collaborate on a ios app
 
 - 🤝 I’m looking for help with **knowledge**
 
 - 👨‍💻 Website [here](https://blandy.xyz)
 
-- 🥅 2022 Goals **become more proficient with nextjs**
+- 🥅 2023 Goals **become more proficient with nextjs**
 
 - 💬 Ask me about **how I became a developer**
 
