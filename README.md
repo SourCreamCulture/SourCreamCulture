@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on an ios app!
 
-- 🌱 I’m currently learning **react.js**
+- 🌱 I’m currently learning **swiftui**
 
 - 👯 I’m looking to collaborate on an ios app
 
