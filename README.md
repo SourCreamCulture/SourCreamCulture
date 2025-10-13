@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **knowledge**
 
-- 👨‍💻 Website [here](https://dallindev.xyz)
+- 👨‍💻 Website [here](https://dallinbland.xyz)
 
 - 🥅 2024 Goals **become more proficient with Swift**
 
