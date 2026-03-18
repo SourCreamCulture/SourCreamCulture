@@ -15,7 +15,7 @@
 
 - 👨‍💻 Website [here](https://dallinbland.xyz)
 
-- 🥅 2024 Goals **become more proficient with Swift**
+- 🥅 2026 Goals **Get better at marketing and get paid users**
 
 - 💬 Ask me about **how I became a developer**
 
